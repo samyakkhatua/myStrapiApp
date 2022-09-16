@@ -4,6 +4,3 @@ module.exports = ({ env }) => ({
       public: "/data/public"
     },
   });
-
-  // samyak
-  
